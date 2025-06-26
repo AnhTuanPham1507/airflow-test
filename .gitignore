@@ -1,0 +1,14 @@
+.vscode
+
+__pycache__
+
+venv/
+
+
+airflow
+
+variables.json
+
+dags/dashboards/*
+
+logs/*
